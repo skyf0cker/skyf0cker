@@ -1,3 +1,9 @@
 <p align="center">
-  <img width="1000" src="https://github.com/skyf0cker/skyf0cker/blob/a052d07ca758eb8140fdae60e0caccd2d5f4a79f/profile.gif" />
+  <a href="https://vophan.day">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.png" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.png" />
+      <img alt="Hao Li (@skyf0cker) — Agent Engineer at ByteDance" src="./assets/profile-light.png" width="896" />
+    </picture>
+  </a>
 </p>
